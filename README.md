@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhisfdc26
-- 👀 I’m interested in Bigdata,Sql,data Science,Salesforce,informatica
-- 🌱 I’m currently learning hadoop/salesforce
+- 👀 I’m interested in Bigdata,Sql,data Science,Snowflake,informatica
+- 🌱 I’m currently learning and Always learning (ETL)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...abhisfdc26@gmail.com
 
